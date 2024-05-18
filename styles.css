@@ -20,6 +20,9 @@ h2 {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+h2:hover{
+    color: rgb(64, 30, 58);
+}
 
 ul {
     list-style-type: none; /* Remove default list bullet points */
